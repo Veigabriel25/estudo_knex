@@ -1,0 +1,1 @@
+# Estudo de knex com postgresql
