@@ -1,0 +1,14 @@
+{
+  "sqltools.connections": [
+    {
+      "askForPassword": true,
+      "database": "knex_test",
+      "driver": "PostgreSQL",
+      "name": "test",
+      "port": 5432,
+      "previewLimit": 50,
+      "server": "localhost",
+      "username": "postgres"
+    }
+  ]
+}
